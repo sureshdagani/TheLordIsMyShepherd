@@ -1,2 +1,1 @@
-# TheLordIsMyShepherd
-First Repository
+Xpress Connect Project
